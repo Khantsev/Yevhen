@@ -24,7 +24,7 @@
 <details>
 <summary><strong>Target: Learning</strong></summary>
 
-- React,
+- React
 - Vue.js
 - Webpack
 - TypeScript
